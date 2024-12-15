@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(215, 249, 250);
+    text-align: center;
+}
+
+footer{
+    display: fixed;
+    bottom: -200px;
+}
